@@ -20,17 +20,17 @@ Here are some ideas to get you started:
 -->
 <br/>
 🔭 I’m currently working on an app called Drink O'Clock with my partner Joel. Drink O'Clock is a project where we're working with REST APIs to provide an interactive page where you can get a random drink, its ingredients, and instructions on how to prepare it based on your alcohol preference.
-<br/>
+<br/><br/>
 🌱 I’m currently learning to use my current skills in HTML5, CSS3, JS, and React.js in a more collaborative effort.
-<br/>
+<br/><br/>
 🌠 I'm looking for my first fulltime gig after I graduate bootcamp where I can join a team that will help me to continue to grow and develop.
-<br/>
+<br/><br/>
 🤔 I'm interested in learning more about C#, .NET, and the Blazor framework.
-<br/>
+<br/><br/>
 ❤️ I'm a lover of all things Microsoft, especially Surface products and XBOX.
-<br/>
+<br/><br/>
 🕹️ When I'm not coding, I'm an avid fan of:
-  <br/>• Dungeons & Dragons (particularly AD&D & 2ED) and other tabletop RPGs
-  <br/>• Tabletop Skirmish Wargames (currently invested in Infinity and Dark Age)
-  <br/>• Isometric RPGs where my choices count
-  <br/>• Open world RPGs where I can waste inordinate amounts of time crafting and building things
+  <br/><br/>• Dungeons & Dragons (particularly AD&D & 2ED) and other tabletop RPGs
+  <br/><br/>• Tabletop Skirmish Wargames (currently invested in Infinity and Dark Age)
+  <br/><br/>• Isometric RPGs where my choices count
+  <br/><br/>• Open world RPGs where I can waste inordinate amounts of time crafting and building things
