@@ -1,6 +1,6 @@
 ### <h1>Hi there 👋 I'm Karl</h1>
 
-I'm a Guelph based Web Developer
+<h2>I'm a Guelph based Web Developer</h2>
 
 I'm currently enrolled in Juno College of Technology (Cohort 44!) where I'm expanding on my previous knowledge of HTML5, CSS3, JS, and React.js through my own projects and collaborating with others. I'm really excited to start my career in Web Development where I can hopefully design the new page or app you'll be using!
 
