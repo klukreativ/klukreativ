@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Karl
+### <h1>Hi there 👋 I'm Karl</h1>
 
 I'm a Guelph based Web Developer
 
@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 ❤️ I'm a lover of all things Microsoft, especially Surface products and XBOX.
 <br/><br/>
 🕹️ When I'm not coding, I'm an avid fan of:
-  <br/><br/>• Dungeons & Dragons (particularly AD&D & 2ED) and other tabletop RPGs
-  <br/><br/>• Tabletop Skirmish Wargames (currently invested in Infinity and Dark Age)
-  <br/><br/>• Isometric RPGs where my choices count
-  <br/><br/>• Open world RPGs where I can waste inordinate amounts of time crafting and building things
+  <br/>• Dungeons & Dragons (particularly AD&D & 2ED) and other tabletop RPGs
+  <br/>• Tabletop Skirmish Wargames (currently invested in Infinity and Dark Age)
+  <br/>• Isometric RPGs where my choices count
+  <br/>• Open world RPGs where I can waste inordinate amounts of time crafting and building things
