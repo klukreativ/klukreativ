@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 <br/><br/>
 🌱 I’m currently learning to use my current skills in HTML5, CSS3, JS, and React.js in a more collaborative effort.
 <br/><br/>
-🌠 I'm looking for my first fulltime gig after I graduate bootcamp where I can join a team that will help me to continue to grow and develop.
+🌠 I'm looking for my first fulltime gig after I graduate bootcamp where I can join a team that will help me continue to grow and develop.
 <br/><br/>
 🤔 I'm interested in learning more about C#, .NET, and the Blazor framework.
 <br/><br/>
