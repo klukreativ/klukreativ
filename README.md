@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 <br/><br/>
 🤔 I'm interested in learning more about C#, .NET, and the Blazor framework.
 <br/><br/>
-❤️ I'm a lover of all things Microsoft, especially Surface products and XBOX.
+🪟 I'm a lover of all things Microsoft, especially Surface products and XBOX.
 <br/><br/>
 🕹️ When I'm not coding, I'm an avid fan of:
 <ul>
