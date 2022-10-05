@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 ❤️ I'm a lover of all things Microsoft, especially Surface products and XBOX.
 <br/><br/>
 🕹️ When I'm not coding, I'm an avid fan of:
-<ol>
+<ul>
 <li>Dungeons & Dragons (particularly AD&D & 2ED) and other tabletop RPGs</li>
 <li>Tabletop Skirmish Wargames (currently invested in Infinity and Dark Age)</li>
 <li>Isometric RPGs where my choices count</li>
 <li>Open world RPGs where I can waste inordinate amounts of time crafting and building things</li>
-</ol>
+</ul>
