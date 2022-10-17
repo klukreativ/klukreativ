@@ -37,5 +37,6 @@ Here are some ideas to get you started:
 <li>Open world RPGs where I can waste inordinate amounts of time crafting and building things</li>
 </ul>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lunarpirate&show_icons=true&theme=radical)](https://github.com/lunarpirate/github-readme-stats)
 
-[![lunarpirate's GitHub stats](https://github-readme-stats.vercel.app/api?username=lunarpirate)](https://github.com/anuraghazra/github-readme-stats)
+[![lunarpirate's GitHub stats](https://github-readme-stats.vercel.app/api?username=lunarpirate&show_icons=true&theme=radical)](https://github.com/lunarpirate/github-readme-stats)
