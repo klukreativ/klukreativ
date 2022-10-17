@@ -36,3 +36,6 @@ Here are some ideas to get you started:
 <li>Isometric RPGs where my choices count</li>
 <li>Open world RPGs where I can waste inordinate amounts of time crafting and building things</li>
 </ul>
+
+
+[![lunarpirate's GitHub stats](https://github-readme-stats.vercel.app/api?username=lunarpirate)](https://github.com/anuraghazra/github-readme-stats)
