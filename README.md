@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <br/>
-🔭 I’m currently working on an app called Drink O'Clock with my partner Joel. Drink O'Clock is a project where we're working with REST APIs to provide an interactive page where you can get a random drink, its ingredients, and instructions on how to prepare it based on your alcohol preference.
+🔭 I’m currently working on a personal app, Kryptokeeper, which is a practice in using APIs & Databases using React.js which allows a user to register for an account, and simulate investing in cryptocurrency to chart their gains and losses with no risk.
 <br/><br/>
 🌱 I’m currently learning to use my current skills in HTML5, CSS3, JS, and React.js in a more collaborative effort.
 <br/><br/>
