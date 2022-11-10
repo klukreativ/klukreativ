@@ -4,22 +4,8 @@
 
 I'm currently enrolled in Juno College of Technology (Cohort 44!) where I'm expanding on my previous knowledge of HTML5, CSS3, JS, and React.js through my own projects and collaborating with others. I'm really excited to start my career in Web Development where I can hopefully design the new page or app you'll be using!
 
-<!--
-**lunarpirate/lunarpirate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <br/>
-🔭 I’m currently working on a personal app, Kryptokeeper, which is a practice in using APIs & Databases using React.js which allows a user to register for an account, and simulate investing in cryptocurrency to chart their gains and losses with no risk.
+🔭 I’m currently collaborating on my final group project at Juno creating a game utilizing multiple APIs within React.
 <br/><br/>
 🌱 I’m currently learning to use my current skills in HTML5, CSS3, JS, and React.js in a more collaborative effort.
 <br/><br/>
@@ -31,7 +17,7 @@ Here are some ideas to get you started:
 <br/><br/>
 🕹️ When I'm not coding, I'm an avid fan of:
 <ul>
-<li>Dungeons & Dragons (particularly AD&D & 2ED) and other tabletop RPGs</li>
+<li>Dungeons & Dragons (particularly AD&D & 2ED - Dark Sun & Al Qadim) and other tabletop RPGs</li>
 <li>Tabletop Skirmish Wargames (currently invested in Infinity and Dark Age)</li>
 <li>Isometric RPGs where my choices count</li>
 <li>Open world RPGs where I can waste inordinate amounts of time crafting and building things</li>
