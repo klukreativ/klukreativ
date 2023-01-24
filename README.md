@@ -7,7 +7,7 @@ I'm a recent Juno College of Technology graduate (Cohort 44!) where I've expande
 <br/>
 🔭 I’m currently looking for careers and opportunities within the web development field while continuing to hone my craft (refactoring previous projects and learning TypeScript)
 <br/><br/>
-🌱 I’m currently learning to use my current skills in HTML5, CSS3, JS, and React.js in a more collaborative effort.
+🌱 I’m currently learning the MERN stack with the goal of creating custom CMS with CRUD functions.
 <br/><br/>
 🌠 I'm looking for my first fulltime gig after I graduate bootcamp where I can join a team that will help me continue to grow and develop. Shoot me a DM if you have one you'd like to share!
 <br/><br/>
