@@ -25,8 +25,8 @@ I'm a recent Juno College of Technology graduate (Cohort 44!) where I've expande
 
 <div style="display:flex; justify-content:space-between;">
 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lunarpirate&show_icons=true&theme=radical&env=PAT_1)](https://github.com/klukreativ/github-readme-stats)
-[![lunarpirate's GitHub stats](https://github-readme-stats.vercel.app/api?username=lunarpirate&show_icons=true&theme=radical&env=PAT_1)](https://github.com/klukreativ/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=klukreativ&show_icons=true&theme=radical&env=PAT_1)](https://github.com/klukreativ/github-readme-stats)
+[![lunarpirate's GitHub stats](https://github-readme-stats.vercel.app/api?username=klukreativ&show_icons=true&theme=radical&env=PAT_1)](https://github.com/klukreativ/github-readme-stats)
  
 </div>
 
