@@ -1,32 +1,47 @@
-### <h1>Hi there 👋 I'm Karl</h1>
+<h1 align="center">Hi there 👋 I'm Karl</h1>
 
-<h2>I'm a Guelph based Web Developer</h2>
+<p>I'm a Guelph based Web Developer with a background in education, management, and sales. I've decided to take the plunge into web development because of my love for problem solving and passion for technology. I am a recent <strong>Juno College of Technology</strong> graduate (Cohort 44!) where I expanded on my previous knowledge of HTML5, CSS3, JS, and React.js through my own projects and collaborating with others. I'm really excited to start my career in Web Development where I can hopefully design the new page or app you'll be using!</p>
 
-I'm a recent Juno College of Technology graduate (Cohort 44!) where I've expanded on my previous knowledge of HTML5, CSS3, JS, and React.js through my own projects and collaborating with others. I'm really excited to start my career in Web Development where I can hopefully design the new page or app you'll be using!
+---
 
+<h3 align="center">My Languages & Tools:</h3>
 <br/>
-🔭 I’m currently looking for careers and opportunities within the web development field while continuing to hone my craft (refactoring previous projects and learning TypeScript)
-<br/><br/>
-🌱 I’m currently learning the MERN stack with the goal of creating custom CMS with CRUD functions.
-<br/><br/>
-🌠 I'm looking for my first fulltime gig after I graduate bootcamp where I can join a team that will help me continue to grow and develop. Shoot me a DM if you have one you'd like to share!
-<br/><br/>
-🤔 I'm interested in learning more about TypeScript, the MERN stack, C#, .NET, and the Blazor framework.
-<br/><br/>
-🪟 I'm a lover of all things Microsoft, especially Surface products and XBOX.
-<br/><br/>
-🕹️ When I'm not coding, I'm an avid fan of:
-<ul>
+<p align="center">
+ <img height="64em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
+ <img height="64em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
+ <img height="64em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+ <img height="64em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
+ <img height="64em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
+ <img height="64em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" />
+ <img height="64em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" />
+ <img height="64em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+ <img height="64em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" />
+</p>
+
+---
+
+<h3 align="center">Currently Learning:</h3>
+<br/>
+<p align="center">
+ <img height="64em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" />
+ <img height="64em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
+ <img height="64em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" />
+</p>
+
+---
+
+<h3 align="center">🕹️ When I'm not coding, I'm an avid fan of:</h3>
+<br/>
+<ul> 
 <li>Dungeons & Dragons (particularly AD&D & 2ED - Dark Sun & Al Qadim) and other tabletop RPGs</li>
-<li>Tabletop Skirmish Wargames (currently invested in Infinity and Dark Age)</li>
+<li>Miniature Painting & Tabletop Skirmish Wargames (currently invested in Infinity and Dark Age)</li>
 <li>Isometric RPGs where my choices count</li>
 <li>Open world RPGs where I can waste inordinate amounts of time crafting and building things</li>
 </ul>
 
-<div style="display:flex; justify-content:space-between;">
+---
 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=klukreativ&show_icons=true&theme=radical&env=PAT_1)](https://github.com/klukreativ/github-readme-stats)
-[![lunarpirate's GitHub stats](https://github-readme-stats.vercel.app/api?username=klukreativ&show_icons=true&theme=radical&env=PAT_1)](https://github.com/klukreativ/github-readme-stats)
- 
+<div align="center">
+<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=klukreativ&show_icons=true&layout=compact&theme=radical&env=PAT_1"/>
+<img height="175em" src="https://github-readme-stats.vercel.app/api?username=klukreativ&show_icons=true&layout=compact&theme=radical&env=PAT_1"/>
 </div>
-
