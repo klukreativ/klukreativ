@@ -26,6 +26,8 @@
  <img height="64em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" />
  <img height="64em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
  <img height="64em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" />
+ <img height="64em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
+ <img height="64em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
 </p>
 
 ---
@@ -37,6 +39,7 @@
 <li>Miniature Painting & Tabletop Skirmish Wargames (currently invested in Infinity and Dark Age)</li>
 <li>Isometric RPGs where my choices count</li>
 <li>Open world RPGs where I can waste inordinate amounts of time crafting and building things</li>
+<li>Wandering new trails with my pupper, Garou</li>
 </ul>
 
 ---
